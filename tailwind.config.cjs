@@ -9,6 +9,9 @@ const config = {
       xl: '1440px',
     },
     extend: {},
+    fontFamily:{
+      dosvga:["DOSVGA"]
+    }
   },
 
   plugins: [
