@@ -23,7 +23,7 @@
   </Route>
 
   <Route path='/post/:id' let:params>
-    <Post id={userPost[params.id].id} 
+    <Post 
       title={userPost[params.id].title} 
       author={userPost[params.id].author} 
       message={userPost[params.id].post}/>

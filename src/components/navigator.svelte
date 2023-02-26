@@ -3,7 +3,7 @@
 </script>
 
 <Router>
-  <div class="navbar bg-base-100 mb-8">
+  <div class="navbar bg-purple-700 mb-8 font-dosvga">
       <div class="flex-1">
         <!-- svelte-ignore a11y-missing-attribute -->
         <Link class="btn btn-ghost normal-case text-xl" to='/'>Svelte-Blog</Link>
